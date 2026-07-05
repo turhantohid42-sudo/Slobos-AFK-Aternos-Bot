@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SoftCrowm123.aternos.me",
-    "port": 37250,
+    "ip": "SoftCrown123.aternos.me",
+    "port": 19370,
     "version": "1.21.11",
     "try-creative": false
   },
